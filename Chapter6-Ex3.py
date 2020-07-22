@@ -7,5 +7,4 @@ def count(x):
 		if letter == "a":
 			count = count +1
 	print (count)
-
 count(word)
