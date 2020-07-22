@@ -14,3 +14,4 @@ while True:
     count = count +1
 
 print("Total", total, "Count", count, "Avarage", total/count)
+    
