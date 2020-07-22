@@ -15,6 +15,3 @@ for line in xhand :
 		#print (lista)
 
 print (sorted(lista))
-
-
-
